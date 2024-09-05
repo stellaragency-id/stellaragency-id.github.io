@@ -1,5 +1,57 @@
 {
+  "name": "stellaragency-id.github.io",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://stellaragency-id.github.io",
+  "dependencies": {
+    "@heroicons/react": "^2.1.5",
+    "@tailwindcss/typography": "^0.5.15",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "autoprefixer": "^10.4.20",
+    "daisyui": "^4.12.10",
+    "i18next": "^23.14.0",
+    "i18next-browser-languagedetector": "^8.0.0",
+    "i18next-http-backend": "^2.6.0",
+    "postcss": "^8.4.41",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^15.0.1",
+    "react-icons": "^5.3.0",
+    "react-markdown": "^9.0.1",
+    "react-router-dom": "^6.26.1",
+    "tailwindcss": "^3.4.10",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "@babel/plugin-proposal-optional-chaining": "^7.21.0",
+    "gh-pages": "^6.1.1",
+    "react-scripts": "^5.0.1"
   }
 }
