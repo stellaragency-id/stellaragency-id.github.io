@@ -1,0 +1,28 @@
+{
+  "home": {
+    "title": "Welcome to Stellar Agency",
+    "description": "Join the top talent agency and become a star on Bigo Live.",
+    "joinUsButton": "Join Us",
+    "aboutUs": "Di Stellar Agency, kami adalah mitra di balik banyak acara dan kampanye yang sukses, menghadirkan talenta istimewa yang akan membuat brand Anda tak terlupakan. Baik itu model yang penuh energi atau performer yang memikat, talenta kami siap membuat brand Anda bersinar dan mencapai puncaknya. Kami ahli dalam berbagai layanan, mulai dari Produksi Konten hingga Pemasaran Influencer, semuanya dirancang untuk memperkuat kehadiran brand Anda di berbagai platform. Dengan dedikasi, pengalaman, dan semangat tanpa henti, kami memastikan setiap proyek berjalan sempurna. Yuk, bermitra dengan Stellar Agency, dan bersama-sama kita capai kesuksesan yang luar biasa!"
+  },
+  "join": {
+    "title": "Join Our Agency",
+    "description": "Are you ready to take your talent to the next level? Apply to join Stellar Agency today!",
+    "applyButton": "Apply Now"
+  },
+  "bigo": {
+    "title": "Bigo Live Hosts",
+    "host1": {
+      "title": "Host 1",
+      "description": "Top Bigo Live host with over 100k followers."
+    },
+    "host2": {
+      "title": "Host 2",
+      "description": "Popular for engaging and entertaining livestreams."
+    },
+    "host3": {
+      "title": "Host 3",
+      "description": "Join our agency to meet hosts like this!"
+    }
+  }
+}
